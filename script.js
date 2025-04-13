@@ -83,7 +83,7 @@
     console.log(ort);
     
 }
-.........................................................//
+//.........................................................//
 
 {
     //M-10
@@ -98,4 +98,20 @@
     console.log(akv);
     console.log(bkv);
     
+}
+//.........................................................//
+
+{
+    //M-11
+    var a=prompt("a kiriting")
+    var b=prompt("b kiriting")
+    console.log(Number(a)+Number(b));
+    console.log(Number(a)-Number(b));
+    const r=a-b;
+    var absA= Math.abs(a)
+    var absB= Math.abs(b)
+    // console.log(s);
+    // console.log(r);
+    console.log(absA);
+    console.log(absB);
 }
